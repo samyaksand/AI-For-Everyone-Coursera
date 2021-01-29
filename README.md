@@ -7,7 +7,7 @@
 
 ---------------------------------------------------------------------------------------------
 
-## Quiz [Grades] (https://github.com/samyaksand/AI-For-Everyone-Coursera/tree/master/Quizzes)
+## Quiz [Grades](https://github.com/samyaksand/AI-For-Everyone-Coursera/tree/master/Quizzes)
 * [Week 1](https://github.com/samyaksand/AI-For-Everyone-Coursera/blob/master/Quizzes/Week%201%20Quiz.JPG)
 * [Week 2](https://github.com/samyaksand/AI-For-Everyone-Coursera/blob/master/Quizzes/Week%202%20Quiz.JPG)
 * [Week 3](https://github.com/samyaksand/AI-For-Everyone-Coursera/blob/master/Quizzes/Week%203%20Quiz.JPG)
