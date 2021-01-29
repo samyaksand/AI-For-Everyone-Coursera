@@ -1,5 +1,5 @@
-# AI For Everyone--QUIZ 
-All quizzes for the course "AI For Everyone" on Cousera
+# AI For Everyone-QUIZZES 
+All quizzes for the course "AI For Everyone" on Coursera.
 
 Score 100%
 
